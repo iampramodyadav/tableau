@@ -271,7 +271,7 @@ Pie charts
 Correct
 Line charts are one of the most informative charts for assessing whether the independent variable in a category or subcategory affects your SMART metric. Note that there are other chart types that are also effective in assessing these elements.
 
---
+---
 
 ## Question.	
 According to the data analytics company Gartner, the majority of companies reported the reason their big data projects failed is due to:
@@ -287,15 +287,20 @@ organizational failures only
 mostly technical failures, but also some organizational failures
 
 
-mostly organizational failures, but also some technical failures
+**mostly organizational failures, but also some technical failures**
 
 Correct
 The majority of reasons big data projects fail is due to organizational failures, not technical failures.
 
-## **Question**. 	You should make charts to assess the items you listed in which layers of the independent variables in your SPAP?
+## **Question**
+You should make charts to assess the items you listed in which layers of the independent variables in your SPAP?
  
 Layer 2
+
 Layer 3
+
 Layers 2 and 3
+
 **Use your judgment**(May be)
-Week-2
+
+---
